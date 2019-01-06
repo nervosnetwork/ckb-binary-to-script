@@ -8,5 +8,5 @@ A simple tool to wrap a RISC-V binary in CKB's [script](https://github.com/nervo
 $ git clone https://github.com/nervosnetwork/ckb-binary-to-script
 $ cd ckb-binary-to-script
 $ cargo build
-$ ./target/debug/ckb-binary-to-script < <path to RISC-V binary> > <path to generated Script data>
+$ ./target/debug/ckb-binary-to-script < /path/to/RISC-V/binary > path/to/generated/Script/data
 ```
